@@ -32,5 +32,4 @@ There are three tasks: Forward Chaining, Backward Chaining, and Propositional Lo
 		type of clause but the main problem is that resolution takes a lot of time compared to other apporaches. The logs of resolution are a lot bigger 
 		compared to forward and backward chaining techniques. The subuset of clauses becomes bigger as more number of clauses get resolved.
 		
-		Note: My backward chaining algorithm is correct. The outputs it gives are perfect. But in the logs, some part of it is missing(the last N/A # N/A 
-		with Y). All my logs are printed fine and cycles are also detected. So please do not deduct marks for that.
+
