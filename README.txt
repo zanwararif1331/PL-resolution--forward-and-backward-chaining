@@ -1,8 +1,4 @@
-					ASSIGNMENT-4
-Name- Siddhant Jawa
-CSCI 561 Fall 2013
-USC ID:7769-2282-69
-Email: sjawa@usc.edu
+				PL RESOLUTION, BACKWARD CHAINING AND FORWARD CHAINING
 
 There are three tasks: Forward Chaining, Backward Chaining, and Propositional Logic. The details of each of these are as follows:-
 
